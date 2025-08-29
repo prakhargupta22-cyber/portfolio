@@ -4,7 +4,7 @@ import Navbar from './components/Navbar/Navbar'
 const App = () => {
   return (
     <div>
-  <Navbar/>
+  <p>Hello tenets coligue</p>
     </div>
   )
 }
